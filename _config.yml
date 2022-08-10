@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "Marco Perronet"
 title_separator          : "-"
 name                     : &name "Marco Perronet"
-description              : &description "PhD Student"
+description              : &description "Software Engineer"
 url                      : https://perronet.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "perronet/perronet.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Marco Perronet"
   avatar           : "pic.jpg"
-  bio              : "PhD student at Max Planck Institute for Software Systems"
-  location         : "Kaiserslautern, Germany"
+  bio              : "Software Enginner Intern at Meta (London)"
+  location         : "Turin, Italy"
   employer         :
-  pubmed           : 
-  googlescholar    : 
-  email            : "perronet@mpi-sws.org"
+  pubmed           :
+  googlescholar    :
+  email            : "perronet.marco@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "marco-perronet"
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
