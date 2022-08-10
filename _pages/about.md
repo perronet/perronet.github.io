@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a computer scientist broadly interested in software engineering, operating systems, and static program analysis. I moved to Germany after my Bachelor's degree to pursue a *Master+PhD* program at [Max Planck Instute for software systems (**MPI-SWS**)](https://www.mpi-sws.org/): in this program, students study for courses while working on research projects. After obtaining my Master's degree in Germany, I travelled to London for a 3 months inernship at **Meta**, where I worked as a software engineer on the [Infer](https://fbinfer.com/) project.
+Hi there! I am a computer scientist broadly interested in software engineering, operating systems, and static program analysis. I moved to Germany after my Bachelor's degree to pursue a *Master+PhD* program at [Max Planck Institute for software systems (**MPI-SWS**)](https://www.mpi-sws.org/): in this program, students study for courses while working on research projects. After obtaining my Master's degree in Germany, I traveled to London for a three months internship at **Meta**, where I worked as a software engineer on the [Infer](https://fbinfer.com/) project.
 
 My research at MPI-SWS
 ------
