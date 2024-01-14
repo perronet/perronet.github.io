@@ -8,6 +8,6 @@ redirect_from:
   - /resume.html
 ---
 
-<a href="../files/CV.pdf" download="cv_perronet">Download Pdf</a>
+<a href="../files/cv.pdf" download="cv_perronet">Download Pdf</a>
 
-<object data="../files/CV.pdf" width="100%" height="100%" type='application/pdf'></object>
+<object data="../files/cv.pdf" width="100%" height="100%" type='application/pdf'></object>
